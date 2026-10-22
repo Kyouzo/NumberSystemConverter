@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated app icon: "1010 → A" (binary ten is hex A). 108dp adaptive canvas, content inside the 66dp safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M37.97,31.50 L41.17,28.5 L41.17,41.0 M49.8,28.5 A3.2,3.2 0 0 1 53.0,31.7 L53.0,37.8 A3.2,3.2 0 0 1 49.8,41.0 A3.2,3.2 0 0 1 46.6,37.8 L46.6,31.7 A3.2,3.2 0 0 1 49.8,28.5 Z M56.77,31.50 L59.97,28.5 L59.97,41.0 M68.6,28.5 A3.2,3.2 0 0 1 71.8,31.7 L71.8,37.8 A3.2,3.2 0 0 1 68.6,41.0 A3.2,3.2 0 0 1 65.4,37.8 L65.4,31.7 A3.2,3.2 0 0 1 68.6,28.5 Z"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M54,45 L54,50.5 M51,47.6 L54,50.6 L57,47.6"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M45.5,79.5 L54,60 L62.5,79.5 M48.8,72.5 L59.2,72.5"
+        android:strokeColor="#FF000000"
+        android:strokeWidth="4.6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+</vector>

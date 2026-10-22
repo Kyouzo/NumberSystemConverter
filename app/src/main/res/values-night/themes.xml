@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark window background so there is no white flash when the app starts in dark mode. -->
+    <style name="Theme.NumberSystemConverter" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#FF131318</item>
+    </style>
+</resources>
